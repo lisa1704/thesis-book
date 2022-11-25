@@ -4,4 +4,9 @@ A thesis submitted to the Department of CSE, IUT
 in partial fulfillment of the requirements for the degree of
 Bachelor of Science in Software Engineering
 
+Manuscript
+
+Technologies used: PyTorch, TensorFlow, Google Colab, Kaggle
+Notebook
+
 
